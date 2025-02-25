@@ -1,0 +1,5 @@
+Signal 1 - Predicted Logic Depth: 6.9
+Signal 2 - Predicted Logic Depth: 5.3
+Signal 3 - Predicted Logic Depth: 9.0
+Signal 4 - Predicted Logic Depth: 8.2
+Signal 5 - Predicted Logic Depth: 10.7
