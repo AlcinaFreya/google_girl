@@ -39,7 +39,7 @@ Run the script to predict logic depth on new circuit data:
 ## 📊 Feature Importance
 The model evaluates the importance of different circuit parameters. The feature importance plot below shows the most significant factors affecting **logic depth**.
 
-![Feature Importance](data/feature_importance.png)
+
 
 ---
 
